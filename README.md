@@ -1,6 +1,6 @@
 # 💱 React Currency Converter
 
-A responsive and lightweight currency converter built with **React**, using the [Fawaz Ahmed Currency API](https://github.com/fawazahmed0/currency-api). This tool enables users to convert between international currencies with up-to-date exchange rates.
+A responsive and lightweight currency converter built with **React**, using the [Fawaz Ahmed Currency API](https://github.com/fawazahmed0/exchange-api). This tool enables users to convert between international currencies with up-to-date exchange rates.
 
 ---
 
@@ -15,9 +15,7 @@ A responsive and lightweight currency converter built with **React**, using the 
 - 🔁 Real-time currency conversion using Fawaz Ahmed’s API
 - 🌍 Supports 150+ world currencies
 - 🔢 Convert between any two selected currencies
-- 📅 Displays date of last update
 - 🧠 Intelligent input handling
-- 📱 Responsive design for mobile and desktop
 
 ---
 
