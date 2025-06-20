@@ -6,7 +6,7 @@ A responsive and lightweight currency converter built with **React**, using the 
 
 ## 🌐 Live Demo
 
-> [Coming Soon] – Deployed via Vercel / Netlify
+> [Currency Converter](https://convrt-currency.netlify.app/) – Deployed via Netlify
 
 ---
 
