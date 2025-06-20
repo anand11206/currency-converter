@@ -47,6 +47,7 @@ currency-converter/
 ├── package-lock.json
 ├── eslint.config.json
 ├── package.json
+├── LICENSE
 ├── vite.config.json
 ├── index.html
 └── README.md
